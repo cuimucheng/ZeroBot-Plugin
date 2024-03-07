@@ -28,7 +28,7 @@ import (
 	//               vvvvvvvvvvvvvv高优先级区vvvvvvvvvvvvvv               //
 	//                      vvvvvvv高优先级区vvvvvvv                      //
 	//                          vvvvvvvvvvvvvv                          //
-	//                               vvvv                               //
+	//                               vvvvvv                               //
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/antiabuse" // 违禁词
 
